@@ -1,2 +1,0 @@
-# SwiftSolve
-Software Programming Company
